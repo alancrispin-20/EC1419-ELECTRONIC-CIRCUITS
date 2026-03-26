@@ -5,10 +5,16 @@
 <img width="842" height="511" alt="image" src="https://github.com/user-attachments/assets/7b291257-af6c-47ce-b939-3631ea52bbf4" />
 <img width="760" height="462" alt="image" src="https://github.com/user-attachments/assets/eeff6a23-1fb7-494b-a99d-c05b574526f8" />
 <img width="902" height="543" alt="image" src="https://github.com/user-attachments/assets/e09654e3-d35b-4312-8f5a-d54cb1aa47bc" />
+<img width="949" height="1280" alt="image" src="https://github.com/user-attachments/assets/5c7daa4a-2903-4124-897a-0a8d7212e10d" />
+<img width="911" height="1280" alt="image" src="https://github.com/user-attachments/assets/f7106940-f069-47d8-9ff8-d43b65f0e262" />
 
 
 # Tabulation with readings
+<img width="989" height="1280" alt="image" src="https://github.com/user-attachments/assets/3aec694a-6c6f-4c3e-9399-d97c31da2997" />
 
 ## Semilog plotted Graph
+<img width="1280" height="967" alt="image" src="https://github.com/user-attachments/assets/aa127f1c-81f6-45a8-bda6-5526a399780f" />
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+
+<img width="1280" height="784" alt="image" src="https://github.com/user-attachments/assets/8634c0d1-ef5d-4630-9896-f9798cc05650" />
