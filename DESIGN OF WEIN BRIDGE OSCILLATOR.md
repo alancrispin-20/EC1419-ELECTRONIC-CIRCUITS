@@ -23,7 +23,8 @@
 <img width="1280" height="725" alt="image" src="https://github.com/user-attachments/assets/e6ba7244-0a0f-425e-802b-6978dec91c1d" />
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
-![Uploading image.png…]()
+
+<img width="1280" height="335" alt="image" src="https://github.com/user-attachments/assets/c3df9f68-3fee-470b-84e5-6c0e80ffc10f" />
 
 Practical frequency of Oscillation = 159 Hz
 
