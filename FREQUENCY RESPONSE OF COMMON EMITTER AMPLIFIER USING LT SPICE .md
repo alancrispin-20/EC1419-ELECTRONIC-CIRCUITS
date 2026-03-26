@@ -35,6 +35,7 @@
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+<img width="1600" height="1030" alt="image" src="https://github.com/user-attachments/assets/0c662bcb-5735-4700-a041-9bb9bc6ed9eb" />
 
 **VOLTAGE GAIN = 15 db
 
